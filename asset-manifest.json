@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.71cc37cf.js",
+    "main.css": "/static/css/main.e69e6bf7.css",
+    "main.js": "/static/js/main.931854e9.js",
     "static/js/453.3354ece2.chunk.js": "/static/js/453.3354ece2.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/about.png": "/static/media/about.1b2d30fc67d2de2c4c35.png",
+    "static/media/home-arm.png": "/static/media/home-arm.b302ff840420a238d114.png",
+    "static/media/Asset020.png": "/static/media/Asset020.3ab0994a2c668711005f.png",
+    "static/media/home-bg.png": "/static/media/home-bg.5b83a722051878fbe700.png",
+    "static/media/before-after-05.jpg": "/static/media/before-after-05.840ecaeff758bda0cab1.jpg",
+    "static/media/before-after-03.jpg": "/static/media/before-after-03.76abf63ca156de6f5ced.jpg",
+    "static/media/before-after-02.jpg": "/static/media/before-after-02.6239b262cc962dd26b11.jpg",
+    "static/media/before-after-04.jpg": "/static/media/before-after-04.876f08d65662245a67e4.jpg",
+    "static/media/before-after-07.jpg": "/static/media/before-after-07.2d5664842bf48628e6e6.jpg",
+    "static/media/Asset019.png": "/static/media/Asset019.3616b58f1c1e4243cd1c.png",
+    "static/media/home-bg-inverse.png": "/static/media/home-bg-inverse.840f375e308f0dd40412.png",
+    "static/media/carre.png": "/static/media/carre.dd188e8ac4eb20dc7109.png",
+    "static/media/fusionjpg-04.jpg": "/static/media/fusionjpg-04.bf693cb79fbae0a7783a.jpg",
+    "static/media/fusionjpg-03.jpg": "/static/media/fusionjpg-03.61f6add907ea7f1e7487.jpg",
+    "static/media/fusionjpg-05.jpg": "/static/media/fusionjpg-05.57e9328ce89cbe9f133e.jpg",
+    "static/media/fusionjpg-06.jpg": "/static/media/fusionjpg-06.1ea650602cba464ffadc.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.71cc37cf.js.map": "/static/js/main.71cc37cf.js.map",
+    "main.e69e6bf7.css.map": "/static/css/main.e69e6bf7.css.map",
+    "main.931854e9.js.map": "/static/js/main.931854e9.js.map",
     "453.3354ece2.chunk.js.map": "/static/js/453.3354ece2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.71cc37cf.js"
+    "static/css/main.e69e6bf7.css",
+    "static/js/main.931854e9.js"
   ]
 }
